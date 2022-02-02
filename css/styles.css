@@ -230,6 +230,9 @@ footer {
   justify-content: space-evenly;
 }
 @media screen and (max-width: 1024px) {
+  header{
+    padding:0rem;
+  }
   .middle{
     padding-top:1rem;
   }
