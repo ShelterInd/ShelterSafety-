@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding:0 2.5rem;
+}
+
+strong{
+    font-size:30px;
+    font-family:"Merriweather";
+    font-weight:bold;
+    display:flex;
+    padding:1rem 0 1rem 0;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-family:"Poppins";
+    font-size:20px;
+    font-weight: 400;
+}
+ul{
+    padding-left:1rem;
+    font-size:20px;
+}
