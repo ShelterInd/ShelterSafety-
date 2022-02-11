@@ -281,6 +281,9 @@ footer {
   header {
     padding: 0rem;
   }
+  nav{
+    justify-content: center;
+  }
   .middle {
     padding-top: 1rem;
   }
@@ -303,6 +306,9 @@ footer {
     flex-direction: column-reverse;
   }
   .img-2 {
+    width: 90%;
+  }
+  .img-3{
     width: 90%;
   }
   .container .mockup-2 .left-text {
